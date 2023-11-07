@@ -17,7 +17,7 @@ defmodule StreambugWeb.Router do
   scope "/", StreambugWeb do
     pipe_through :browser
 
-    get "/", PageController, :home
+    live "/", IndexLive, :home
   end
 
   # Other scopes may use custom stacks.
