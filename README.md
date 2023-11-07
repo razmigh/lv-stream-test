@@ -1,5 +1,9 @@
 # Streambug
 
+Related
+https://github.com/phoenixframework/phoenix_live_view/commit/ddccaa6b63559389eeea9edd388c718421ab53cc  
+https://elixirforum.com/t/phoenix-stream-reset-woes/59342  
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
